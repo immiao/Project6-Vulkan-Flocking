@@ -3,13 +3,16 @@ Vulkan Flocking: compute and shading in one pipeline!
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 6**
 
-* (TODO) YOUR NAME HERE
-  Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Kaixiang Miao
+* Tested on: Windows 7, i7-3630QM @ 2.40GHz 8GB, GTX 660M 2GB (Lenovo Y580 laptop, personal computer)
 
-  ### (TODO: Your README)
+### ScreenShots
 
-  Include screenshots, analysis, etc. (Remember, this is public, so don't put
-  anything here that you don't want to share with the world.)
+![](img/72.gif)
+
+
+### Analysis
+
 
 ### Credits
 
